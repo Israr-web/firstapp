@@ -63,6 +63,8 @@ export default function Register() {
                             <form onSubmit={handleSubmit} className="login-form">
                                 <div className="form-group">
                                     <label htmlFor="username" id="reglabel">Username:</label>
+                                    <label htmlFor="username" id="reglabel">Username:</label>
+                                   
                                     <input
                                         type="text"
                                         id="username"
