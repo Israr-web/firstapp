@@ -1,0 +1,58 @@
+.divfooter{
+    margin-top: 20px;
+    height: auto;
+    background-color: rgb(41, 41, 41);
+    border: 1px solid beige;
+    
+}
+
+#footh1{
+    margin-top: 50px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+h4{
+    color: whitesmoke;
+    font-size: 15px;
+}
+p{
+    color: whitesmoke;
+}
+#btnicon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+#daytime{
+    margin-top: 30px;
+    font-size: 14px;
+    color: whitesmoke;
+}
+#daytime span{
+    margin-left: 45px;
+}
+#daytimesa{
+    margin-top: 10px;
+    font-size: 14px;
+    color: whitesmoke;
+}
+#daytimesa span{
+    margin-left: 88px;
+}
+#daytimesun{
+    margin-top: 10px;
+    font-size: 14px;
+    color: whitesmoke;
+}
+#btncl{
+    margin-top: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 0;
+    margin-left: 98px;
+    background-color: orange;
+}

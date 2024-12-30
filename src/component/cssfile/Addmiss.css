@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: gray;
+    margin-top: 86px;
+    display: flex;
+    align-items: center;
+}
+h1{
+   margin-left: 50px;
+}
+h2{
+    margin-top: 70px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.form-group{
+    margin-top: 30px;
+}
+label{
+    margin-bottom: 20px;
+}
+#pay{
+    margin-left: 15px;
+}
+#onpay{
+    margin-left: 15px;
+}
+#submit{
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: orange;
+    border: none;
+}
+#h3{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#h31{
+    font-size: 18px;
+    margin-left: 5px;
+    /* margin-top: 3px; */
+    margin-bottom: 10px;
+}
+#h31 span{
+    font-size: 15px;
+    font-weight: 300;
+}
+#h3last{
+    font-size: 15px;
+}
